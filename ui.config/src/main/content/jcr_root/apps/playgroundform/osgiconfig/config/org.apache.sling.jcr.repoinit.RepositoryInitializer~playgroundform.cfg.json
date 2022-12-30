@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/playgroundform",
+        "create path (nt:unstructured) /content/dam/playgroundform/jcr:content",
+        "set properties on /content/dam/playgroundform/jcr:content\n  set cq:conf{String} to /conf/playgroundform\n  set jcr:title{String} to \"PlaygroundForm\"\nend"
+    ]
+}

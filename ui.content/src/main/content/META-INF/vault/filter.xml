@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/playgroundform" mode="merge"/>
+    <filter root="/content/playgroundform" mode="merge"/>
+    <filter root="/content/dam/playgroundform/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/playgroundform" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments-themes/playgroundform" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments-fdm/playgroundform" mode="merge"/>
+    <filter root="/content/dam/playgroundform/sample_logo.png" mode="merge"/>
+    <filter root="/content/dam/playgroundform/sample_terms.png" mode="merge"/>
+</workspaceFilter>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/playgroundform/clientlibs"/>
+    <filter root="/apps/playgroundform/components"/>
+    <filter root="/apps/playgroundform/i18n"/>
+</workspaceFilter>
